@@ -1,0 +1,45 @@
+{
+    "name": "MouseActions",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "da2842e1-8d51-4c7e-a58b-bc577524a27c",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "49d85358-5059-4af6-a573-a05036e342ee",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "15c384c6-57c8-4c1c-90c2-ab48363a1ac1",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6b291c8a-2062-42c3-928a-22bf8c9141e6",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
